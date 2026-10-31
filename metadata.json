@@ -1,0 +1,6 @@
+{
+  "name": "MMG Wallet - Closed-Loop Financial Platform",
+  "description": "نظام محفظة مالية مغلقة آمنة بالجنيه المصري (EGP) مع إدارة الأرصدة، الشحن اليدوي عبر InstaPay وفوري، والتحويلات الداخلية ولوحة تحكم مأمنة للأدمن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
